@@ -1,5 +1,6 @@
 markdown: kramdown
 safe: false
+excerpt_separator: <!--more-->
 
 exclude:
   - README.md
@@ -31,7 +32,7 @@ custom:
       - name: tech
         title: 技术
 
-    scrollingLoadCount: 2                          # 滚屏自动加载文章数量，“0”为关闭
+    scrollingLoadCount: 0                          # 滚屏自动加载文章数量，“0”为关闭
 
 meta:
     author:

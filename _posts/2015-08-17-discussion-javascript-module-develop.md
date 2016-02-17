@@ -11,6 +11,8 @@ category: tech
 
 几种javascript模块开发的写法。自己接触过的几种javascript模块开发，由于水平有限，只能简单谈一谈。
 
+<!--more-->
+
 ***
 
 ### 立即执行匿名函数

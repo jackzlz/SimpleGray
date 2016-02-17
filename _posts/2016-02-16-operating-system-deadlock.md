@@ -17,6 +17,8 @@ category: zikao
 
 ![Alt text](http://7xqzc5.com1.z0.glb.clouddn.com/-1454214764099.png)
 
+<!--more-->
+
 ## 第 一 节死锁的形成
 1. **死锁概念：**
 

@@ -5,9 +5,10 @@
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	{% include meta.tpl %}
 	<div class="article-content">
-	{% if forloop.index == 1 and preview and post.layout == 'post' %}
-		{{ post.content }}
-	{% endif %}
+	
+		{{ post.excerpt }}
+		<a href="{{ post.url }}">Read More...</a>
+
 	</div>
 </article>
 {% endfor %}

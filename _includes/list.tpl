@@ -5,9 +5,9 @@
 	<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
 	{% include meta.tpl %}
 	<div class="article-content">
-	
+
 		{{ post.excerpt }}
-		<a href="{{ post.url }}">Read More...</a>
+		<a href="{{ post.url }}"><span>➥</span>阅读全文</a>
 
 	</div>
 </article>

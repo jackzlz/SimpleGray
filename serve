@@ -1,2 +1,4 @@
 #!/bin/bash
 jekyll serve -P $PORT -H $IP
+
+sudo nginx -c /etc/nginx/myblog.conf

@@ -6,8 +6,6 @@ category: 骑摄
 
 去年温度不是很低，梅花在开年后才开得正好。
 
-ddd
-
 ![](http://imglf.nosdn.127.net/img/RHNjcVRJeFhJdmhpcmV0aWJlM2pHcm1EWmc5cGkzRG1VejhyM3pzR1FaY0NIWEdZNHptRFZnPT0.jpg?imageView&thumbnail=2000y1500&type=jpg&quality=96&stripmeta=0&type=jpg)
 
 ![](http://imglf0.nosdn.127.net/img/RHNjcVRJeFhJdmhpcmV0aWJlM2pHbjhRTHZaU1pwY0dDV2t1Uk4xZExFQ0Jra1dicjg0NVZBPT0.jpg?imageView&thumbnail=2000y1500&type=jpg&quality=96&stripmeta=0&type=jpg)
